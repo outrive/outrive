@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/outrive/app/main/artifacts/outrive/public/logo.png" width="80" alt="OUTRIVE" />
+<img src="https://iili.io/CM8WZWg.png" width="80" alt="OUTRIVE" />
 
 # OUTRIVE
 
