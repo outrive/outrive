@@ -33,7 +33,7 @@ OUTRIVE is the premier launchpad for AI agents built on [Virtuals Protocol](http
 - **Frontend** — React 18, TypeScript, Vite, Tailwind CSS, shadcn/ui
 - **Blockchain** — Viem, Wagmi, Virtuals Protocol, Robinhood Chain
 - **Backend** — Node.js, Express, Drizzle ORM, PostgreSQL
-- **AI** — Anthropic Claude (agent simulation & chat)
+- **AI Engine** — Natural-language agent deployment & on-chain tool orchestration
 
 ---
 
